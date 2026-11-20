@@ -6,6 +6,13 @@ kifli
 555
 gittel
 kakil
+<<<<<<< HEAD
 
 
 suttyó  csokker
+=======
+glettel
+
+suttyó  csokker
+ basztikuli
+>>>>>>> master
